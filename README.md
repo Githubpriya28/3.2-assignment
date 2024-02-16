@@ -1,2 +1,2 @@
 # 3.2-assignment
-Create a RESTapi using Mean Stack part 2.
+Creating Api that allows you to manage your database
